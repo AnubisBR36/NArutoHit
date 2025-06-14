@@ -1,0 +1,69 @@
+Deprecated: Using ${var} in strings is deprecated, use {$var} instead in /home/runner/workspace/news/inc/functions.inc.php on line 708
+
+Deprecated: Using ${var} in strings is deprecated, use {$var} instead in /home/runner/workspace/news/inc/functions.inc.php on line 708
+
+Deprecated: Using ${var} in strings is deprecated, use {$var} instead in /home/runner/workspace/news/inc/functions.inc.php on line 747
+
+Deprecated: Using ${var} in strings is deprecated, use {$var} instead in /home/runner/workspace/news/inc/functions.inc.php on line 951
+
+Deprecated: Using ${var} in strings is deprecated, use {$var} instead in /home/runner/workspace/news/inc/functions.inc.php on line 952
+
+Warning: Undefined variable $HTTP_SESSION_VARS in /home/runner/workspace/news/inc/functions.inc.php on line 10
+
+Warning: Undefined variable $HTTP_COOKIE_VARS in /home/runner/workspace/news/inc/functions.inc.php on line 12
+
+Warning: Undefined variable $HTTP_POST_VARS in /home/runner/workspace/news/inc/functions.inc.php on line 14
+
+Warning: Undefined variable $HTTP_GET_VARS in /home/runner/workspace/news/inc/functions.inc.php on line 16
+
+Warning: Undefined variable $HTTP_ENV_VARS in /home/runner/workspace/news/inc/functions.inc.php on line 18
+
+Warning: Undefined variable $PHP_SELF in /home/runner/workspace/news/inc/functions.inc.php on line 49
+
+Warning: Undefined variable $comm_start_from in /home/runner/workspace/news/inc/functions.inc.php on line 57
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 57
+
+Warning: Undefined variable $start_from in /home/runner/workspace/news/inc/functions.inc.php on line 58
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 58
+
+Warning: Undefined variable $archive in /home/runner/workspace/news/inc/functions.inc.php on line 59
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 59
+
+Warning: Undefined variable $subaction in /home/runner/workspace/news/inc/functions.inc.php on line 60
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 60
+
+Warning: Undefined variable $id in /home/runner/workspace/news/inc/functions.inc.php on line 61
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 61
+
+Warning: Undefined variable $ucat in /home/runner/workspace/news/inc/functions.inc.php on line 62
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 62
+
+Warning: Undefined variable $category in /home/runner/workspace/news/inc/functions.inc.php on line 64
+
+Warning: Undefined variable $category in /home/runner/workspace/news/inc/functions.inc.php on line 70
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 70
+
+Warning: Undefined variable $template in /home/runner/workspace/news/inc/functions.inc.php on line 74
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 74
+
+Warning: Undefined variable $show in /home/runner/workspace/news/inc/functions.inc.php on line 75
+
+Deprecated: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/runner/workspace/news/inc/functions.inc.php on line 75
+﻿
+Warning: Undefined variable $POST in /home/runner/workspace/news/show_news.php on line 31
+
+Warning: Trying to access array offset on value of type null in /home/runner/workspace/news/show_news.php on line 31
+
+Warning: Undefined variable $CN_HALT in /home/runner/workspace/news/show_news.php on line 66
+
+Warning: Undefined variable $static in /home/runner/workspace/news/show_news.php on line 66
+
+Fatal error: Cannot 'break' 2 levels in /home/runner/workspace/news/inc/shows.inc.php on line 193
